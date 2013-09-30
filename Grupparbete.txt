@@ -1,0 +1,21 @@
+Gruppuppgift 1 (mini-grupparbete)  
+Brödtext ?Uppgift:
+Programmera en djurpark. Skapa gemensamt en basklass för alla djuren 
+(Animal). Var och en skall också bygga ett eget djur. Stoppa in saker 
+som djuren kan göra, t ex äta och leka (gärna leka med ett annat djur). 
+Bygg också en main-klass som visar vad era djur kan göra. Även 
+main-klassen bygger ni tillsammans.
+
+
+Använd Github för att versionshantera och dela kod.
+Kör gärna med korta avstämningar inom gruppen, där ni bestämmer om fler 
+saker att lägga till i djuren om ni har tid (fler egenskaper och fler 
+saker som djuren kan göra).
+
+
+Redovisning:
+1. Skicka en länk till er kod på Github.
+2. Skicka in en kort redogörelse för vad era djur skall kunna och vem 
+som har gjort vad.
+3. Demonstrera ert program för klassen på onsdag (2/10).
+ 
